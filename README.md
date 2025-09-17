@@ -1,7 +1,4 @@
 <h3 align="center">Olá mundo!!<br>Tudo quase certo??</h3>
-<h3 align="center">Se está aqui, é para saber um pouco do meu trabalho,certo?</h3>
-<h2 align="center">Fique a vontade!!</h2>
-
 
 ###
 
