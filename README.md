@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👩🏿‍💻 Criadora de "bugs" desde, mais ou menos, 2023.<br>🌎Sou da capital de São Paulo.<br>📚Atualmente estou no 2º semestre no curso técnico em Desenvolvimento de Sistemas.</p>
+<p align="left">👩🏿‍💻 Criadora de "bugs" desde, mais ou menos, 2023.<br>🌎Sou da capital de São Paulo.<br>📚Atualmente estudante do 2º semestre no curso técnico em Desenvolvimento de Sistemas.</p>
 
 ###
 
